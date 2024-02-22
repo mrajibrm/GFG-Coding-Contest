@@ -39,6 +39,6 @@ Write the function ``subarraySum()`` which takes ``arr, N,`` and ``S`` as input 
 **Expected Auxiliary Space :** $ O(1)$
 
 *Constraints:* <br>
-$1 <= N <= 105$ <br>
+$1 <= N <= 10^5$ <br>
 $0 <= A_i <= 10^9$ <br>
 $0<= S <= 10^9$
