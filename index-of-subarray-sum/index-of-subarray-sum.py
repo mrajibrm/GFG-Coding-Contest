@@ -30,6 +30,10 @@ def main():
     S2 = 15
     print(subArraySum(arr2, N2, S2))
 
+    arr3 = [1, 2, 3, 4]
+    N3 = 4
+    S3 = 0
+    print(subArraySum(arr3, N3, S3))
 
 if __name__ == "__main__":
     main()
